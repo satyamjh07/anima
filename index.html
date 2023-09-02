@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Anime Streaming Web App</title>
+  </head>
+  <body>
+    <header>
+      <h1>Anime Streaming</h1>
+    </header>
+
+    <div class="anime-list">
+      <!-- Anime Cards -->
+      <div class="anime-card" onclick="openEpisodeModal('anime1')">
+        <div class="anime-title">Anime Title 1</div>
+        <div class="anime-episode">Episodes: 1</div>
+      </div>
+
+      <div class="anime-card" onclick="openEpisodeModal('anime2')">
+        <div class="anime-title">Fela Pure</div>
+        <div class="anime-episode">Episodes: 1</div>
+      </div>
+
+      <div class="anime-card" onclick="openEpisodeModal('anime3')">
+        <div class="anime-title">Anime Title 3</div>
+        <div class="anime-episode">Episodes: 2</div>
+      </div>
+
+      <div class="anime-card" onclick="openEpisodeModal('anime4')">
+        <div class="anime-title">Anime Title 4</div>
+        <div class="anime-episode">Episodes: 6</div>
+      </div>
+    </div>
+
+    <!-- Episode Modal -->
+    <div id="episode-modal" class="modal">
+      <div class="modal-content">
+        <span class="close" onclick="closeEpisodeModal()">&times;</span>
+        <h2>Episodes for Anime Title</h2>
+        <div id="episode-list" class="episode-list"></div>
+      </div>
+    </div>
+
+    <!-- Player Modal -->
+    <div id="player-modal" class="modal player-modal">
+      <span class="close" onclick="closePlayerModal()">&times;</span>
+      <iframe
+        id="video-frame"
+        width="100%"
+        height="100%"
+        frameborder="0"
+        allowfullscreen
+      ></iframe>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
+</html>
