@@ -32,6 +32,10 @@ function openEpisodeModal(animeId) {
 "https://hentaibar.com/embed/681",
 "https://hentaibar.com/embed/682",
     ], // Add episode URLs here
+    anime6: [
+    "https://hentaibar.com/embed/1010",
+"https://hentaibar.com/embed/1011",
+    ],
   };
 
   // Get the episode data for the selected anime
