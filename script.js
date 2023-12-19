@@ -26,6 +26,12 @@ function openEpisodeModal(animeId) {
       "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=ZW16dDZ5YTVPSkhxdTdxVmNFYTFPNDEveUtpc0p6S2VYYjE4MGJELzJzTDVRdUxXUDU4NDJOL0hUVFovMTF4QWE4cHdjRkdYQ1Y1RzI4dUlSN0FUTFdqTURKdEp4cjNsS1E4TDU3aTdoVG9CNmliVXYwczF4WG9lRWVMeHhUZzRZL2twa292ZHY0TU9EeDdmckNtTG9yVVZHNGJSZ3NqZXgyN2x3VXE0dFVXUmZxQXJwZWRSRWZ0Snhnb2JJa1AzM09OUnV6blZOYWUzMHBNWUF6R3dld1h4ME9sOEdERlNkd3pWR0loNC9CSGRZSHRuZStaOU9SR3NvYnFXTTRTK1FTV01mSnBlci83TGpWMlF0eHFxMmtkdWdQYW9SNy9JdmQ4YitKODFjenBxZTBlWUluaUZVUzFlMHordHZBU0g6fDo6fDpWWnBicG5OV3VJbytwdDZFSm1iUFpBPT0=",
       "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=eTgvdy9DbTBEZ3IvK0dqMEVFbHJlUmdxVjV3UUdIU3NNSHZUVHh1VEZNemdZc2NqU2dJMXRDTlBXTUFpQWtOL08vVk8rWFdUY1V2VktFYUhGUkcxZXRsZjVOcWlRU3BTeGd6SXlCRjl4MzMrUXIyVWNCWjRqN0x5UjNOc0pEbVRwSFNzV0RwUU43dGwvaUsrNnlaS3dkRWFEbWtjUEw4WTc5czhGSEJ6R2xpSXdvamVVOHpWRjA2WW1BOCtWV3FRSFZua2RPd1ViZExPWCt0T0U5UXBIbHcyOUxvbVh2VUZmZkpJcldtNEF3SEE5bFlJemFRY2hWY0ZDWFlEKzgzK3lIbm5ObFM0Ykh6eEdMeDFyUDVRQzc3Z1VqWlR2V0NIb1FPeHljY0VaNXdQQnQvWXBtaFIwem1qY003Q0VBSlI6fDo6fDppRTNwSmIwdWlIV1dSc2dmV0w0akpRPT0=",
     ], // Add episode URLs here
+    anime5: [
+      "https://hentaibar.com/embed/679",
+"https://hentaibar.com/embed/680",
+"https://hentaibar.com/embed/681",
+"https://hentaibar.com/embed/682",
+    ], // Add episode URLs here
   };
 
   // Get the episode data for the selected anime
