@@ -1,103 +1,150 @@
-/* Add these styles to your CSS file or create a new one */
-
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f0f0f0; /* Background color for the whole page */
-    margin: 0;
-    padding: 0;
+  font-family: "Roboto", sans-serif;
+  background-color: #1a1a1a; /* Dark background */
+  color: #ffffff; /* Light text color */
+  margin: 0;
+  padding: 0;
 }
 
 header {
-    background-color: #333; /* Header background color */
-    color: #fff; /* Header text color */
-    text-align: center;
-    padding: 20px;
+   /* Vibrant header color */
+  color: #ffffff;
+  text-align: center;
+  padding: 20px;
+}
+
+header {
+  background-color: #ff4500;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
+
+h1 {
+  margin: 0;
+  font-size: 36px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  background-color: #00aaff;
+  padding: 10px;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  border-radius: 5px;
+  transition: background-color 0.3s;
+  font-size: 16px;
+}
+
+nav a:hover {
+  background-color: #555;
 }
 
 .anime-list {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-around;
-    margin: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 20px;
 }
 
 .anime-card {
-    width: 250px;
-    margin: 10px;
-    background-color: #fff; /* Card background color */
-    border-radius: 5px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
-    cursor: pointer;
-    transition: transform 0.2s;
+  width: 250px;
+  margin: 10px;
+  background-color: #2a2a2a; /* Dark card background */
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
+  cursor: pointer;
+  transition: transform 0.3s, box-shadow 0.3s;
 }
 
 .anime-card:hover {
-    transform: scale(1.05);
+  transform: scale(1.05);
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.6);
+}
+
+.anime-image {
+  width: 100%;
+  height: 150px; /* Adjust the height as needed */
+  object-fit: cover;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
 }
 
 .anime-title {
-    font-size: 18px;
-    font-weight: bold;
-    padding: 10px;
-    color: #333; /* Title text color */
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 15px;
+  color: #ffffff;
 }
 
 .anime-episode {
-    font-size: 14px;
-    padding: 10px;
-    color: #666; /* Episode text color */
+  font-size: 14px;
+  padding: 10px 15px;
+  color: #cccccc;
 }
 
 .modal {
-    display: none;
-    position: fixed;
-    z-index: 1;
-    left: 0;
-    top: 0;
-    width: 100%;
-    height: 100%;
-    overflow: auto;
-    background-color: rgba(0, 0, 0, 0.7); /* Background color for modals */
+  display: none;
+  position: fixed;
+  z-index: 1;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.7);
 }
 
 .modal-content {
-    background-color: #fff; /* Modal content background color */
-    margin: 15% auto;
-    padding: 20px;
-    border-radius: 5px;
-    position: relative;
+  background-color: #1a1a1a; /* Dark modal background */
+  margin: 10% auto;
+  padding: 20px;
+  border-radius: 10px;
+  position: relative;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.6);
 }
 
 .close {
-    position: absolute;
-    top: 10px;
-    right: 10px;
-    font-size: 24px;
-    color: #333; /* Close button color */
-    cursor: pointer;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 3rem;
+  color: #ffffff;
+  cursor: pointer;
 }
 
 .episode-list {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.episode-list div {
+  width: 40%;
+  font-size: 1.4rem;
 }
 
 .episode-card {
-    width: 100px;
-    padding: 10px;
-    margin: 5px;
-    background-color: #f0f0f0; /* Episode card background color */
-    border-radius: 5px;
-    text-align: center;
-    cursor: pointer;
-    transition: background-color 0.2s;
+  width: 80px;
+  padding: 10px;
+  margin: 5px;
+  background-color: #333333; /* Dark episode card background */
+  border-radius: 10px;
+  text-align: center;
+  cursor: pointer;
+  transition: background-color 0.2s;
 }
 
 .episode-card:hover {
-    background-color: #ccc; /* Hover background color for episode cards */
+  background-color: #555555; /* Hover background color for episode cards */
 }
 
 .player-modal {
-    padding: 0;
+  padding: 0;
 }
