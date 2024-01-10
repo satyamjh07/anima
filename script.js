@@ -191,3 +191,18 @@ const togglemode = () => {
     animecard.style.backgroundColor = "red";
   }
 };
+function toggleOwnerSection() {
+  var ownerSection = document.getElementById("ownerSection");
+  var body = document.body;
+
+  if (
+    ownerSection.style.display === "none" ||
+    ownerSection.style.display === ""
+  ) {
+    ownerSection.style.display = "flex";
+    body.style.overflow = "hidden"; // Hide the scrollbar
+  } else {
+    ownerSection.style.display = "none";
+    body.style.overflow = "auto"; // Reset to show the scrollbar
+  }
+}
