@@ -9,7 +9,10 @@ function openEpisodeModal(animeId) {
 
   const animeEpisodes = {
     anime1: [
-      "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=dm8wTWtNNlhJMk1VbnordHl2eDdwS1Z2UTJnUTAyYk9LMG9WZnZ4WGFWb1lmN3NLaFpxY1A4K2UvY3FocEZhQ3I4dXdTVjEyMW9GeUxJdUlOOGZDOW41YjFNSCtUSXc4eXJxanVwRktYYXdnSnFkbTY1aHhSN2FHeVdRRXVXWm5QSW1IWlBEdnc3bXBIbnNwNitNMm9tOW8xb3UwSS9OVnBJNjhjUHhISUFXR09nVTdySmdjS3F4RTgzSStQdDdxZS9KaXZUdm1NQWdMYXNGeTd3TG05WnF4OTJNUktxaGoxNnNHNmNhMGltUXBpRmNLdnp1eklQWnI2eHJOdlhJSjU1cGd0UGFSWE90QkU5NVVLY2hQZDFkSEhoc1dLRVBjMkFMcldjTFlHTGJCSXVFRTlTVHVJN0lJNlhrS1k2U1Q6fDo6fDpEV0tsWWpBYWU0Ty9RbEVHK2tFNFlnPT0=",
+      "https://hentaibar.com/embed/1222",
+      "https://hentaibar.com/embed/1223",
+      "https://hentaibar.com/embed/1224",
+      "https://hentaibar.com/embed/1225",
     ], // Add episode URLs here
     anime2: [
       "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=eFl1eE5MKzF5b01QSWpnaDRsM29oODNHNGtkNmpiQ20xbXVJeGZnWGd3ZTZNci9XMVA3SW9IK21EVFZkUVd1N1lnUmpDMWovOVBGYWpLOXlmcmg4bm1nNGJKaGRmS3pBN015UU1GZW1qWUFXdDJaTEdyRzZYdUEzWUg1L3dVOWVZSTJJUDhlM3F2YUp4YUJxajB3aHBWMC9NbjJlZy9DRFhPNXFUUXJFVGY3aEJJZ0IyQkxhcjNpZUtVVXZWcExWMDEvN2ZKKzlteC9nbEpXeEJJYm9LTW5FcHFsT1pvTldFUmRxaDAvOFYvOGxia3VITitoWjdPOUlZUHlJRWhtQnI2NUhYMXhpdCtoUWpod1dmT09GMmc9PTp8Ojp8OjI4UDg0K2VKNEZYY0Jrd3h1dGRwdWc9PQ==",
@@ -28,23 +31,84 @@ function openEpisodeModal(animeId) {
     ], // Add episode URLs here
     anime5: [
       "https://hentaibar.com/embed/679",
-"https://hentaibar.com/embed/680",
-"https://hentaibar.com/embed/681",
-"https://hentaibar.com/embed/682",
+      "https://hentaibar.com/embed/680",
+      "https://hentaibar.com/embed/681",
+      "https://hentaibar.com/embed/682",
     ], // Add episode URLs here
     anime6: [
-    "https://hentaibar.com/embed/1010",
-"https://hentaibar.com/embed/1011",
+      "https://hentaibar.com/embed/1010",
+      "https://hentaibar.com/embed/1011",
     ],
-    anime7: ["https://hentaibar.com/embed/405",
-"https://hentaibar.com/embed/406",
-"https://hentaibar.com/embed/407",
-"https://hentaibar.com/embed/408",],
-    anime8: ["https://hentaibar.com/embed/260",
-"https://hentaibar.com/embed/261",],
-    anime9: ["https://hentaibar.com/embed/3012",],
-    anime10: ["https://hentaibar.com/embed/2040",
-"https://hentaibar.com/embed/2041",],
+    anime7: [
+      "https://hentaibar.com/embed/405",
+      "https://hentaibar.com/embed/406",
+      "https://hentaibar.com/embed/407",
+      "https://hentaibar.com/embed/408",
+    ],
+    anime8: [
+      "https://hentaihaven.com/wp-content/plugins/player-logic/player.php?data=dTJBWDUxbStXbnNWeTBIZk1wdWJIWHd6Z2F6ZDgwNnNNKzdxUmN0eXZnOWVwYWZCUld1YmtISWVWL0hZazVDdzQ2dWlUSmFHemJCOVAzNDQzQURHREdDZ0drRmVkU1hsQVd2VjRpVGJRUGVQdFRzRHlvb2xPSVA3Q05TUmpBQ2loSTQ1Nmx2VENqVmNQb05OdnZpbDRoNTdwMmIwRXRYWjFTUGZZeHNzOUFET3JpRm1CRjhLMTlJWmozVUFLSWRJeXlIMTI3dmlTNWhLRTF5Q0hQemdJUDBLTmZCcXkyU0k2elBHNEV3dmk1bU5TMmNtYlJSTFF5bXpQZDdVRGtRM0tzYTcyaHhidEtwcWhGTS80MnNmY1E9PTp8Ojp8OnpYa0NXUDgwY08vV1BZS2E3cmI4eXc9PQ==",
+      "https://hentaihaven.com/wp-content/plugins/player-logic/player.php?data=VkwzR2hBSzR1L0RiRWYwNCtVSEx6NklBVnRkS1BtTFZjWXMvNk9Eb00xdkFLZkxnSUNvOTJPNTRMY2ZTVjgrRDQ2bWpDOER0SzBMd09HQWdDdXp6eHhQUXlzQlVlbytiWGtFTGhkemRnbEZJTWN6bzJ1bVNuSVk0dXJSd2c1Ni9HUDNOSWxHUmdSanUyYndXMHpicU1lZ1kwTFlvR2taTGxnNXdTWjk4L0UrdWw0bitVM0lXcEgveFBTNmEzZER0VDZWbXJzY3ZYOGRhWXlHMzkzMGZ1UGJDMERhS2dVS2grNWlHRXk3R1FMK0owM2dnY1NFMGxHV2NRVnlsZ20zWVRDUnZzT2ZOUWNyMHVBT0s5WFhYdHc9PTp8Ojp8OnVRMFAyZTlheEVRV21QeE8rQkxUeVE9PQ==",
+    ],
+    anime9: ["https://hentaibar.com/embed/3012"],
+    anime10: [
+      "https://hentaibar.com/embed/2040",
+      "https://hentaibar.com/embed/2041",
+    ],
+    anime11: ["https://hentaibar.com/embed/2483"],
+    anime12: [
+      "https://hentaibar.com/embed/181",
+      "https://hentaibar.com/embed/182",
+    ],
+    anime13: [
+      "https://hentaibar.com/embed/1613",
+      "https://hentaibar.com/embed/1614",
+    ],
+    anime14: [
+      "https://hentaibar.com/embed/825",
+"https://hentaibar.com/embed/826",
+"https://hentaibar.com/embed/827",
+    ],
+    anime15: [
+      "https://hentaibar.com/embed/1113",
+"https://hentaibar.com/embed/1114",
+"https://hentaibar.com/embed/1115",
+    ],
+    anime16: [
+      "https://hentaibar.com/embed/910",
+      "https://hentaibar.com/embed/911",
+      "https://hentaibar.com/embed/912",
+      "https://hentaibar.com/embed/913",
+    ],
+    anime17: [
+      "https://hentaibar.com/embed/761",
+      "https://hentaibar.com/embed/762"
+    ],
+    anime18: [
+      "https://hentaibar.com/embed/658",
+      "https://hentaibar.com/embed/659",
+      "https://hentaibar.com/embed/660",
+      "https://hentaibar.com/embed/661",
+    ],
+    anime19: [
+      "https://hentaibar.com/embed/226",
+      "https://hentaibar.com/embed/227",
+      "https://hentaibar.com/embed/228",
+      "https://hentaibar.com/embed/229",
+      "https://hentaibar.com/embed/230",
+      "https://hentaibar.com/embed/231",
+    ],
+    anime20: [
+      "https://hentaibar.com/embed/77",
+      "https://hentaibar.com/embed/78",
+    ],
+    anime21: [
+      "https://hentaibar.com/embed/79",
+      "https://hentaibar.com/embed/80",
+    ],
+    anime22: [
+      "https://hentaibar.com/embed/671",
+      "https://hentaibar.com/embed/672",
+    ],
   };
 
   // Get the episode data for the selected anime
@@ -113,3 +177,17 @@ function loadEpisode(index) {
   currentEpisodeIndex = index;
   openPlayerModal();
 }
+
+const togglemode = () => {
+  const toggle = document.getElementById("dark-mode");
+  const animecard = document.getElementById("card");
+  if (document.body.style.backgroundColor === "white") {
+    document.body.style.backgroundColor = "#1a1a1a";
+    toggle.innerHTML = "Light Mode";
+    animecard.style.backgroundColor = "gray";
+  } else {
+    toggle.innerHTML = "Dark Mode";
+    document.body.style.backgroundColor = "white";
+    animecard.style.backgroundColor = "red";
+  }
+};
