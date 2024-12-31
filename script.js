@@ -56,8 +56,7 @@ function openEpisodeModal(animeId) {
     ],
     anime11: ["https://hentaibar.com/embed/2483"],
     anime12: [
-      "https://hentaibar.com/embed/181",
-      "https://hentaibar.com/embed/182",
+      "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=U0dOY05KalRXUmpBaERrYzVsK0wyUGs0eElZODFJTmJSL2M0WkVHUjFtdnNmTWxtSG5wcklEcjNuSkVjb2twdjc1NzcreURiakt4MlRTMDVnUmhNeVZ2MUNocURDalVzc1Q4Mlo4WkhGOHZFMHMyS0g2Qng1S2RnVDJmQzVCUWovbzN3VU02YU5QMjRGeGdrVVFaYjFXdTV5YW96SFhRbk1UK2JwcEN5cDJnVjdYL2pmWENYUjNzQnp0cTdVcWVVTFZQVno4RS9zOUpzeTRrZ092ZEZhTk1wb09sWkFWT1Q3bGRxSys0M0N0YXN1a3dUVDFkbDc4eExFY1BnRExaSWcrUUFRTVFqWEJXZGpuYmNNNm1oaWc9PTp8Ojp8OmFDQW5kQnQvMUNvb25Qb3p0ckJjeUE9PQ==",
     ],
     anime13: [
       "https://hentaibar.com/embed/1613",
