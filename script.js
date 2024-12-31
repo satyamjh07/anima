@@ -81,7 +81,7 @@ function openEpisodeModal(animeId) {
     ],
     anime17: [
       "https://hentaibar.com/embed/761",
-      "https://hentaibar.com/embed/762"
+      "https://hentaibar.com/embed/762",
     ],
     anime18: [
       "https://hentaibar.com/embed/658",
@@ -111,7 +111,7 @@ function openEpisodeModal(animeId) {
     ],
     anime23: [
       "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=d3JIQjA1SERSMGhJZU9wQm9xcHhRQmtIVDlPUzgrcThBSGE2bmtPMUZ4a21UOGZNb0YwbHBUSGlaOXVDL0JEUnFTTXZvQjRmWis2SGdwWG5iRGR0QkNCYWg3a01ZMUVhMjJ0bEh0Tk9CUnVGUlNvV3dIdVdaOXR1d3ZyNjl2R2dEU0ZUOTRkTEtFcnIzWitvNThlSWtSZ0FZeXBUZ3k5NFFlcXBlL0ZpbUFTSXg1WjEybmhZcnhoTWJzTmhQdmFBVmRIMGt1THdOOEJEKytHQVMvcGpQM3FTWlpnYnFmaHFhTnJTRmRHWjcyY1ZSQ2pFV3pVaFZBSlNZRG4zVUdGaGhXSlFwdlJlaHFablZmYVlWSUsreE1SNkZYejlJNG1kcXZ2TVMvenZuMEZKL0tQV1ZkTU1QSTVONVM5b0REOEk6fDo6fDowU1ZhZTlTQm1wc0Z4MzJrRGFORWdnPT0=",
-      "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=Q2FUQnR3QytjeUxjV0JEcFJpQ0hTbG8walRRT1p4TVJVZjZ4RERWa0xZTENSL3pwZjIzUTRteWVyaW9WTld1OXRZekN0b2hUMFd0NzRJck5TcTl6a3ZoaHU0Nys4NmNBcVdXVzhuZ3ZtWW9XMUsrTkQza1dydVN4T2VPT2dGSnBkbk9zdEwrNlp3bGtGUk5XOGdwZEFZNldmV1RzV1NwSitsNjRRQU9xWWZPb3QxZWM5OVJUMzlCTW5pVkhKWlBSRHpRTmhWMG1WZ2d4T1AxUjVQZ3dOVi9HN1U2NDJWNXFpbGlKa0puWWh3TGpWeFlpS3lwbUhnVnZRS0MrTkI3ZHNMNVZlT0tFbzlqblVJUGRPNzNFSnQ0QVQ0MGJOTFN3ZHpmVkprUU9mcnZlRkJtNHVISkFvODhTYXJHOCsxeDY6fDo6fDprVWtkbFlpTHFGRm9UY0RyVnFtQTNRPT0=,
+      "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=Q2FUQnR3QytjeUxjV0JEcFJpQ0hTbG8walRRT1p4TVJVZjZ4RERWa0xZTENSL3pwZjIzUTRteWVyaW9WTld1OXRZekN0b2hUMFd0NzRJck5TcTl6a3ZoaHU0Nys4NmNBcVdXVzhuZ3ZtWW9XMUsrTkQza1dydVN4T2VPT2dGSnBkbk9zdEwrNlp3bGtGUk5XOGdwZEFZNldmV1RzV1NwSitsNjRRQU9xWWZPb3QxZWM5OVJUMzlCTW5pVkhKWlBSRHpRTmhWMG1WZ2d4T1AxUjVQZ3dOVi9HN1U2NDJWNXFpbGlKa0puWWh3TGpWeFlpS3lwbUhnVnZRS0MrTkI3ZHNMNVZlT0tFbzlqblVJUGRPNzNFSnQ0QVQ0MGJOTFN3ZHpmVkprUU9mcnZlRkJtNHVISkFvODhTYXJHOCsxeDY6fDo6fDprVWtkbFlpTHFGRm9UY0RyVnFtQTNRPT0=",
       ],
     anime24: [
       "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=TnhaQitBbExxTk84aXJHY1d5VGtxNzdNS0tCY3VyeTlreU9hZm5OaFBLSTM3TjIzNmhlYjVmamFLaUYwVlBmaHBUZ094S1ZWS01DTFNYYWVlN1JSYkxZMjhweTNWeDh3QmRMNGJvUGNaUG1Jbmg4U2JSbVV5SGpSVElFU3FGbnNrRTFPSW1VaVVKZWtyL1V0cWU0OGNlQ0w3MGhrSlJ6RVJkZTdtREZ1UGwzQXJwTVRIc2F5NWRhbitYNTc3cmxOeE9xU000OTFiRUxSVWZFTTlxd2lTakVaVVFiSWtoM0NCakp5MG8wTmQyamRqM1Z5ZkRoMVUzaURGeHJicnpDZzp8Ojp8OnhvU3F3Y0JRczdUa05LOU00b0JVS2c9PQ==",
