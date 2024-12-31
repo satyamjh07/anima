@@ -114,7 +114,8 @@ function openEpisodeModal(animeId) {
       ],
     anime24: [
       "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=TnhaQitBbExxTk84aXJHY1d5VGtxNzdNS0tCY3VyeTlreU9hZm5OaFBLSTM3TjIzNmhlYjVmamFLaUYwVlBmaHBUZ094S1ZWS01DTFNYYWVlN1JSYkxZMjhweTNWeDh3QmRMNGJvUGNaUG1Jbmg4U2JSbVV5SGpSVElFU3FGbnNrRTFPSW1VaVVKZWtyL1V0cWU0OGNlQ0w3MGhrSlJ6RVJkZTdtREZ1UGwzQXJwTVRIc2F5NWRhbitYNTc3cmxOeE9xU000OTFiRUxSVWZFTTlxd2lTakVaVVFiSWtoM0NCakp5MG8wTmQyamRqM1Z5ZkRoMVUzaURGeHJicnpDZzp8Ojp8OnhvU3F3Y0JRczdUa05LOU00b0JVS2c9PQ==",
-      
+      "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=Vy85SXNENXFJQWN0c3BnTG5vbGRRSzNwZjE3YVoyMUF1NlhvZFBxMXF0NG4wdjBkay9FMEV5STBlcVhpTnlPaGxSVTN5NW51RkJtYnJnU2tsQ2pOUVhTQ2dDL2VuV3ZvV0RRMCtGMWNtKzU0RWllYTJmaUdHVXc5b29TSVFxcUVHa29jalQwYVNTOHFpQktpbjIxL1Y2cytmenNvYXFsck9Hb1ppeE45MHYzYnJsUTE3SUgwRkJENGF1a0ZOSGVPRlh4NkpzVWo4d09VK3NvdCsvSGdvREVxc25PV3E5OGFXdTNmajIyT1ErVm9ZSUlnQTdScGoxRUxUQXd1QWE3QTp8Ojp8OmNVWHVNcEc1WWR5YmhMTExtTkN3QXc9PQ==",
+      ],
   };
 
   // Get the episode data for the selected anime
