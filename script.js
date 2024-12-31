@@ -130,6 +130,9 @@ function openEpisodeModal(animeId) {
   // Show the modal
   modal.style.display = "block";
 };
+// globally declaring openepisodemodal function
+
+window.openEpisodeModal = openEpisodeModal;
 
 function closeEpisodeModal() {
   // Get the modal element
