@@ -6,7 +6,7 @@ function openEpisodeModal(animeId) {
   // Get the modal element and the video iframe element
   const modal = document.getElementById("episode-modal");
   const videoFrame = document.getElementById("video-frame");
-
+};
   const animeEpisodes = {
     anime1: [
       "https://hentaibar.com/embed/1222",
