@@ -117,6 +117,35 @@ function openEpisodeModal(animeId) {
       "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=TnhaQitBbExxTk84aXJHY1d5VGtxNzdNS0tCY3VyeTlreU9hZm5OaFBLSTM3TjIzNmhlYjVmamFLaUYwVlBmaHBUZ094S1ZWS01DTFNYYWVlN1JSYkxZMjhweTNWeDh3QmRMNGJvUGNaUG1Jbmg4U2JSbVV5SGpSVElFU3FGbnNrRTFPSW1VaVVKZWtyL1V0cWU0OGNlQ0w3MGhrSlJ6RVJkZTdtREZ1UGwzQXJwTVRIc2F5NWRhbitYNTc3cmxOeE9xU000OTFiRUxSVWZFTTlxd2lTakVaVVFiSWtoM0NCakp5MG8wTmQyamRqM1Z5ZkRoMVUzaURGeHJicnpDZzp8Ojp8OnhvU3F3Y0JRczdUa05LOU00b0JVS2c9PQ==",
       "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=Vy85SXNENXFJQWN0c3BnTG5vbGRRSzNwZjE3YVoyMUF1NlhvZFBxMXF0NG4wdjBkay9FMEV5STBlcVhpTnlPaGxSVTN5NW51RkJtYnJnU2tsQ2pOUVhTQ2dDL2VuV3ZvV0RRMCtGMWNtKzU0RWllYTJmaUdHVXc5b29TSVFxcUVHa29jalQwYVNTOHFpQktpbjIxL1Y2cytmenNvYXFsck9Hb1ppeE45MHYzYnJsUTE3SUgwRkJENGF1a0ZOSGVPRlh4NkpzVWo4d09VK3NvdCsvSGdvREVxc25PV3E5OGFXdTNmajIyT1ErVm9ZSUlnQTdScGoxRUxUQXd1QWE3QTp8Ojp8OmNVWHVNcEc1WWR5YmhMTExtTkN3QXc9PQ==",
       ],
+        anime25: [
+      "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=N1pUMmUwRHBhRjI4dmkrT0gzL25saWVhbm5xOHNDakU5dWR4d2w0d01yaTRmWmhkeVJtaEx6ZTZTd2dxODFxelhmdHMvRWpoaXVYVE9ST1d4djFrOHVzWU5mUHdxQVpYS1g0S1B2TDJaUEVkNjJoTVp3NVRXZnpNYWhtaXRGNHdLTVpkc2JHRFM4S1c4YmxNalNRL0FnQ2Q1UjJxa0ZZQ3NjZEdKdThBSXRUbXhZY3NubTh0OEJwVWFVdFo0dHZxZHlkVUthRDBCSk9zeERydkFiMzB4UW1ENFk0bk00OHJwMDdMcHNrMmRNUT06fDo6fDpaY0VHOGp2SVIvRDk1MDBsUmQxRkJBPT0=",
+            "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=WExvUjRvd2U5VWx1QXVQWkMxSC8zRWFDRTJGZkJOOER2SHZMTUIxTmV0MGdVdndOK1JHdmxoL01hc2tyMVRiWlpmWU5YMksxTjUvSzFBQlJCeHBKM214TGhRQzNNQXJjM3NjMG1SV0hTWnF3R0tPUVliQW1Ma3F2OHMxVFhld21aMTBuTDJ4RVQybExNdXNTWXczZDlLWTNOUEFsUER2WUFJSmx5YXBNQXlQV2hKWVlPUkxWbWlXazRlWUs5SnNqSUZxUU0rS3o0d3hsRkt3Y21kOVNsOFZKT1FVd09CZVZvREpiSU0wbFRvST06fDo6fDpXbjl3Z2xSbHR5R2hDOUNjeHVHNTF3PT0=",
+        ],
+        anime26: [
+      "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=Q1V5dFMvUFJsRmRrUE1wWm9UTnpLNDVJMEZtZzlhVE5McGVLbGRhb1VqNC9xdVJ5Z20rTGExQkJBa1RJSXZoUDV3UnZNZVBoVHd0VzN4UXJORWdBK1VRZzZjZ0daMkNZL2M2L0tWOGJVNERSbFh3TUZrczFsLzl6TS9kZmxIdXJUWTU3ZEUzNXpTVU5MckhBK3NiQmIzSlYveGQwY283R2x2SHViV1hzUWtIL2lVR1dTNUVIVnFYUGNiZ2ZCVVRUdnV4SEFOSXhEV3hYMSswb0lGN2ozV0hLb0MzVnNNRTV6SEtxbXByenllZz06fDo6fDpNeVp1eC9OdG96NlRmVmROR0hYYUxRPT0=",
+        ],
+        anime27: [
+      "https://nhplayer.com/v/SVIBa8i1bexjY4b/",
+      "https://nhplayer.com/v/ENGc2EQVN6iH5DZ/",
+        ],
+        anime28: [
+      "https://nhplayer.com/v/ejDiZaRdDzKtOA7/",
+      "https://nhplayer.com/v/77qZaEH54tCz8rD/",
+        ],
+        anime29: [
+      "https://nhplayer.com/v/X1hVBH7yhZJBAR6/",
+      "https://nhplayer.com/v/pDWaGPmHFRzIFgj/",
+        ],
+        anime30: [
+      "https://nhplayer.com/v/IHwKLKqVDtDVkOf/",
+       "https://nhplayer.com/v/gY8v9AwDhorebIz/",
+        ],
+        anime31: [
+      
+        ],
+        anime32: [
+      
+        ],
     };
 
     // Get the episode data for the selected anime
@@ -202,3 +231,4 @@ function toggleOwnerSection() {
     body.style.overflow = "auto"; // Reset to show the scrollbar
   }
     }
+
