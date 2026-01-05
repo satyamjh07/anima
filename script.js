@@ -10,7 +10,7 @@ function openEpisodeModal(animeId) {
     // Define episode data for each anime (replace with actual data)
     const animeEpisodes = {
          anime1: [
-      "https://hentaibar.com/embed/1222",
+      "https://terabox-url-fixer.soyone7782-5a9.workers.dev?url=https://d8.freeterabox.com/file/b2db87db42d4c7e5a8aa8e0a2538fadb?bkt=en-d3a65691252603d363c1ccd44a4b403405ef681341a4795ffd4a30bfab51f95a1aa44691b88fe55a&xcode=d5be2b0eaea718d2c098c16ff4eb4abbe853833c304141636668cc677d9f0c3eb481f9509971feba473978033fbcafa90b2977702d3e6764&fid=4400439914954-250528-217031427605806&time=1767597866&sign=FDTAXUGERQlBHSKfaon-DCb740ccc5511e5e8fedcff06b081203-C6K%2B6s3bAGNadEvJPCtfUp%2B4u9w%3D&to=d408&size=644054422&sta_dx=644054422&sta_cs=0&sta_ft=mp4&sta_ct=7&sta_mt=7&fm2=MH%2Ctky%2CAnywhere%2C%2CSGF1dHMtZGUtRnJhbmNl%2Cany&region=tky&ctime=1675062147&mtime=1707744081&resv0=-1&resv1=0&resv2=&resv3=&resv4=644054422&vuk=81366670714690&iv=2&htype=&randtype=&newver=1&newfm=1&secfm=1&flow_ver=3&pkey=en-c7486037029997f2517161a922a6285ba29297f3a16ae979c1ca85ddd1a8cd33cd41b0e0bca4165f&expires=1767626666&rt=sh&r=858165589&sh=1&fin=Princessjas4ux+sex+01%281%29.mp4&fn=Princessjas4ux+sex+01%281%29.mp4&dp-logid=107659860174789245&dp-callid=0.1&hps=1&tsl=0&csl=0&fsl=-1&csign=Qg6Xow7848oeYlNB0%2BtJd31zEUk%3D&so=0&ut=1&uter=4&serv=1&uc=2807080419&ti=9c74a385a1d3afc53884ff8f852c8f1c07fbae7afc10ddf7&tuse=&raw_appid=0&ogr=0&rregion=XVVi&adg=c_0818bc9d228b20853988a217828a221f&reqlabel=250528_f_e5c8ee12c4137d595897ef1c9b8984e0_-1_ce90e69cde73bf1d5985cbcd79ee43a7&ccn=FR&by=themis",
       "https://hentaibar.com/embed/1223",
       "https://hentaibar.com/embed/1224",
       "https://hentaibar.com/embed/1225",
@@ -231,4 +231,5 @@ function toggleOwnerSection() {
     body.style.overflow = "auto"; // Reset to show the scrollbar
   }
     }
+
 
