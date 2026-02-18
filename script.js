@@ -142,7 +142,7 @@ function openEpisodeModal(animeId) {
     ],
     anime31: [
       "https://archive.org/embed/mistreated-bride-1",
-      "https://archive.org/embed/mistreated-bride-2",
+      "https://archive.org/embed/mistreated-bride-2_202602",
       "https://archive.org/embed/mistreated-bride-3",
       "https://archive.org/embed/mistreated-bride-4",
     ],
@@ -268,6 +268,7 @@ function toggleOwnerSection() {
     body.style.overflow = "auto"; // Reset to show the scrollbar
   }
     }
+
 
 
 
