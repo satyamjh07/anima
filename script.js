@@ -57,12 +57,12 @@ function openEpisodeModal(animeId) {
       "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=NDcvSUxBOTJFU2pnNVFRU2hCN2tBSnhYM1FpUDRwWkwxSUpLQnE0N1FmUEUwSkoyTEYzV201L3lLR2tCL3puSEtIci9uYU1aRHVhdW1HNmdVcmlGdU5kZ3ZpYlNqbjNJcGtrcU13aGVNZ2dVYjU2ZEtPVWtOTnduQ2ZOdmI5MzVOWG9taUR0VmNicEhRZ3RjQ1ZiZ2VGTXlVcU9sdGdlOXFOOGF3czEwbmcxWFlqclJqUmd1a1ZpdEpiUG5QcFZURXRMcmJwOElDYkI0MmlnY1ZnSktvRDdDVXpZUW05VXJuVEJFUFZvSGU4WT06fDo6fDpBQXVjZHdWbEpMdTVib0hJTUxDTWtRPT0=",
     ], // Add episode URLs here
     anime13: [
-      "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=QnR2aGFXYVNTTXExaGlVMVNyTzhZSWRjNElzR1FlVHYvQ1IrY3FwLzZPZmdkUDNBS2xmZ085QTZ5UXV5N2JjQ1lCa0M4K1ZxNXdFbmJUanRraVBxdDcvUktPK1g1dng2aDRMVk5BejNmVTlCOVJacEUrR0ZRcUZIM29WRlZjYjV1ZjFobmtkL2VxVlVscWt3Y0tTYlFtSWZqS1F4aWFrQmdvK1cxK0EwQmhjRDA1Y2NxNkxQL0t5T1o0RGIybVBidGcxUTFFblVGN0NCV1VUZjF6M3ZSdXdJZk56cGkrSlZqTTgxS1Bxb3hMZG4yZlpTRWFGT1FpMXNBemxJek1FSEczTVpjaXY1UXhHRERPUk50a3NyOEpIUkVJR0NWMHphZ1Jwd2syTk1oajgzOXllWEpYNGt6SklVNlVSUVg4alo6fDo6fDpLNHlUTVc3aWJNTXRSbWlncml2dGxnPT0=",
-      "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=bHhQZG92Nmh4Y09haG9PRk9xZHl0cXUyem80RlJIK0ZhYVNyNTRDNytFSTBzT21PV1dYUlV1MDNseGN3cjd2NTJYVVJndjBLSEx3S3gySnV0Z0JZUnoxOGd0a3JPUFdmanhndWExM2xYanRwNUk4YVdXRHR0aVYxUWRkbERCcmNveTJUWEFkdm4rcmQyei91T3JlNHJPZGczcnlYRVd4NTZ3V09yZm5hQWlJYUVUKzVSMGVaZmxoOXRKTVZ3anFrWFVkUVUvQVRsYngzeE1uZzJWK2JYWFh0T0ZhaXl6bnZpNHZNVDAyNC9rVElhVUYvcDVJdWpvWGVSVVQxeTdxWkt4cXFoMDQvcVFtSEI0ZlU1RnBVejVXN0c4eUJTZElKajBkanZtREZpU3kweVZGbisvLzFYQzB0eUR2cnpoa1Y6fDo6fDovMjZ3b3ZBR1lVanFnVmowYkFUOE13PT0=",
-      "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=N3c0amdORkFoS3N3eVFZQVNnVzY4RVNOT0dKMFI0OHJpaXEwVzEyc1pPUkNnVjgyNXd2cTN2eUswRzlSTWhvYlFRQ3p2RjJ5MlhVL0RJeHZQUjRqdXg3QVRxOU9rQ2lPVW52UG81Tm5ZVjhuS1pKa2dCS1c2emFBcTVUSjcvZ2ZYMFl1QmM2MU9DVTFBYW1nOS9BWE8vd0VzeXVYMVk3NndOQ0NSem1Ea3JnQmI2YlMyTVQ3R3V4MDhJZlRoMUxKU0pHdVM1cExqY0hPY0swWUZmODlqTHhBMENCOGI5eDhHU1pKMitsbVUvdzJFMFRJaVZCc3pnRk9CemRZRG42bUdieHFUaFdPU2FSQmZwc29wZmZ4dmxaRzB4d0gyUEE4ciswbC8yTzgrTER1YzZKN2NuLyt5YksvOUR5VDdRT1U6fDo6fDpZNlZxK1VzMnBNRkhpK2wyUVJFY3NnPT0=",
-      "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=TlZjNlFwYTJCVnZqZGRhR2R4aGpVeDJzQ3FUMW5qWm8vMC9TSVo5ZWtZNEJ6TStjaXJSWVhtZHhWNVFjWUkxbFllSlBPNXYwSnBzT3ExVUFzcVZmcExrNndwTEJ3dEZ5bGdabm9JZGxERkRtczdNT0dXZHZyT3N1QTUxWUJjZzhUTEM3T3hoYkV4eThrK1B5WFFsQzVxdmM2U0hxdW4yd3hqUFNjVHJVeFJRcExMOGdScGcwRmxsZnE1MlZrWk8zZFF3OUs4a1k3cW4xdUtZWHMzcFZsRnB0RHI5YVF4cXRWQy9ZZVNSeEMyV0dZZ2s0OFBMaWIydW5IWTRFWFE0UDVkV1VaSklpb09xWFVidVlJZUt0NUwrWUpldkJlWFZEWmpIWGpmeEhIZEFOUDVDYkRLeTEyMEVzQStoOEdYYnQ6fDo6fDpmbzd4MnZrUUJVbEcxVnRPY1FCbjBBPT0=",
-      "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=ZW16dDZ5YTVPSkhxdTdxVmNFYTFPNDEveUtpc0p6S2VYYjE4MGJELzJzTDVRdUxXUDU4NDJOL0hUVFovMTF4QWE4cHdjRkdYQ1Y1RzI4dUlSN0FUTFdqTURKdEp4cjNsS1E4TDU3aTdoVG9CNmliVXYwczF4WG9lRWVMeHhUZzRZL2twa292ZHY0TU9EeDdmckNtTG9yVVZHNGJSZ3NqZXgyN2x3VXE0dFVXUmZxQXJwZWRSRWZ0Snhnb2JJa1AzM09OUnV6blZOYWUzMHBNWUF6R3dld1h4ME9sOEdERlNkd3pWR0loNC9CSGRZSHRuZStaOU9SR3NvYnFXTTRTK1FTV01mSnBlci83TGpWMlF0eHFxMmtkdWdQYW9SNy9JdmQ4YitKODFjenBxZTBlWUluaUZVUzFlMHordHZBU0g6fDo6fDpWWnBicG5OV3VJbytwdDZFSm1iUFpBPT0=",
-      "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=eTgvdy9DbTBEZ3IvK0dqMEVFbHJlUmdxVjV3UUdIU3NNSHZUVHh1VEZNemdZc2NqU2dJMXRDTlBXTUFpQWtOL08vVk8rWFdUY1V2VktFYUhGUkcxZXRsZjVOcWlRU3BTeGd6SXlCRjl4MzMrUXIyVWNCWjRqN0x5UjNOc0pEbVRwSFNzV0RwUU43dGwvaUsrNnlaS3dkRWFEbWtjUEw4WTc5czhGSEJ6R2xpSXdvamVVOHpWRjA2WW1BOCtWV3FRSFZua2RPd1ViZExPWCt0T0U5UXBIbHcyOUxvbVh2VUZmZkpJcldtNEF3SEE5bFlJemFRY2hWY0ZDWFlEKzgzK3lIbm5ObFM0Ykh6eEdMeDFyUDVRQzc3Z1VqWlR2V0NIb1FPeHljY0VaNXdQQnQvWXBtaFIwem1qY003Q0VBSlI6fDo6fDppRTNwSmIwdWlIV1dSc2dmV0w0akpRPT0=",
+      "https://archive.org/embed/taboo-charming-mother-1",
+      "https://archive.org/embed/taboo-charming-mother-2",
+      "https://archive.org/embed/taboo-charming-mother-3",
+      "https://archive.org/embed/taboo-charming-mother-4",
+      "https://archive.org/embed/taboo-charming-mother-5",
+      "https://archive.org/embed/taboo-charming-mother-6",
     ], // Add episode URLs here
     anime14: [
       "https://hentaibar.com/embed/679",
@@ -89,13 +89,14 @@ function openEpisodeModal(animeId) {
       "https://hentaibar.com/embed/2040",
       "https://hentaibar.com/embed/2041",
     ],
-    anime20: ["https://hentaibar.com/embed/2483"],
+    anime20: ["https://archive.org/embed/love-es-m-the-animation-1"],
+        
     anime21: [
       "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=U0dOY05KalRXUmpBaERrYzVsK0wyUGs0eElZODFJTmJSL2M0WkVHUjFtdnNmTWxtSG5wcklEcjNuSkVjb2twdjc1NzcreURiakt4MlRTMDVnUmhNeVZ2MUNocURDalVzc1Q4Mlo4WkhGOHZFMHMyS0g2Qng1S2RnVDJmQzVCUWovbzN3VU02YU5QMjRGeGdrVVFaYjFXdTV5YW96SFhRbk1UK2JwcEN5cDJnVjdYL2pmWENYUjNzQnp0cTdVcWVVTFZQVno4RS9zOUpzeTRrZ092ZEZhTk1wb09sWkFWT1Q3bGRxSys0M0N0YXN1a3dUVDFkbDc4eExFY1BnRExaSWcrUUFRTVFqWEJXZGpuYmNNNm1oaWc9PTp8Ojp8OmFDQW5kQnQvMUNvb25Qb3p0ckJjeUE9PQ==",
     ],
     anime22: [
-      "https://hentaibar.com/embed/1613",
-      "https://hentaibar.com/embed/1614",
+      "https://archive.org/embed/furyou-ni-hamerarete-jusei-suru-kyonyuu-okaa-san-the-animation-1",
+      "https://archive.org/embed/furyou-ni-hamerarete-jusei-suru-kyonyuu-okaa-san-the-animation-2",
     ],
     anime23: [
       "https://hentaibar.com/embed/825",
@@ -118,10 +119,10 @@ function openEpisodeModal(animeId) {
       "https://hentaibar.com/embed/762",
     ],
     anime27: [
-      "https://hentaibar.com/embed/658",
-      "https://hentaibar.com/embed/659",
-      "https://hentaibar.com/embed/660",
-      "https://hentaibar.com/embed/661",
+      "https://archive.org/embed/helter-skelter-hakudaku-no-mura-1",
+      "https://archive.org/embed/helter-skelter-hakudaku-no-mura-2",
+      "https://archive.org/embed/helter-skelter-hakudaku-no-mura-3",
+      "https://archive.org/embed/helter-skelter-hakudaku-no-mura-4",
     ],
     anime28: [
       "https://hentaibar.com/embed/226",
@@ -140,8 +141,10 @@ function openEpisodeModal(animeId) {
       "https://hentaibar.com/embed/80",
     ],
     anime31: [
-      "https://hentaibar.com/embed/671",
-      "https://hentaibar.com/embed/672",
+      "https://archive.org/embed/mistreated-bride-1",
+      "https://archive.org/embed/mistreated-bride-2",
+      "https://archive.org/embed/mistreated-bride-3",
+      "https://archive.org/embed/mistreated-bride-4",
     ],
     anime32: [
       "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=d3JIQjA1SERSMGhJZU9wQm9xcHhRQmtIVDlPUzgrcThBSGE2bmtPMUZ4a21UOGZNb0YwbHBUSGlaOXVDL0JEUnFTTXZvQjRmWis2SGdwWG5iRGR0QkNCYWg3a01ZMUVhMjJ0bEh0Tk9CUnVGUlNvV3dIdVdaOXR1d3ZyNjl2R2dEU0ZUOTRkTEtFcnIzWitvNThlSWtSZ0FZeXBUZ3k5NFFlcXBlL0ZpbUFTSXg1WjEybmhZcnhoTWJzTmhQdmFBVmRIMGt1THdOOEJEKytHQVMvcGpQM3FTWlpnYnFmaHFhTnJTRmRHWjcyY1ZSQ2pFV3pVaFZBSlNZRG4zVUdGaGhXSlFwdlJlaHFablZmYVlWSUsreE1SNkZYejlJNG1kcXZ2TVMvenZuMEZKL0tQV1ZkTU1QSTVONVM5b0REOEk6fDo6fDowU1ZhZTlTQm1wc0Z4MzJrRGFORWdnPT0=",
@@ -265,6 +268,7 @@ function toggleOwnerSection() {
     body.style.overflow = "auto"; // Reset to show the scrollbar
   }
     }
+
 
 
 
