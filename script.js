@@ -18,8 +18,8 @@ function openEpisodeModal(animeId) {
       "https://archive.org/embed/drop-out-2-720p-v2x",
     ],
           anime3: [
-      "https://archive.org/embed/tg-new-jm-link-mylfwood.-24.11.07.alexa.payne.and.ashley.alexander.-480p",
-      "https://hentaibar.com/embed/1225",
+      "https://archive.org/embed/insatiable-1-720p-v2u",
+      "https://archive.org/embed/insatiable-2-720p-v2u",
     ],
           anime4: [
       "https://archive.org/embed/anano-okuno-ii-tokoro-1",
@@ -265,6 +265,7 @@ function toggleOwnerSection() {
     body.style.overflow = "auto"; // Reset to show the scrollbar
   }
     }
+
 
 
 
