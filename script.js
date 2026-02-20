@@ -58,26 +58,26 @@ onAuthStateChanged(auth, (user) => {
 
   const path = window.location.pathname;
 
-  const isDashboard = path.includes("dashboard");
-  const isAuthPage = path.includes("index") || 
-                     path.includes("signup") || 
-                     path === "/" || 
-                     path === "";
+  const isLoginPage = path.includes("login");
+  const isSignupPage = path.includes("signup");
 
-  // 🔐 If logged in → prevent staying on login/signup
-  if (user && isAuthPage) {
-    window.location.replace(AFTER_LOGIN_REDIRECT);
-    return;
-  }
+  const isAuthPage = isLoginPage || isSignupPage;
+  const isMainPage = path.includes("index") || path === "/" || path === "";
 
-  // 🚫 If NOT logged in → block dashboard access
-  if (!user && isDashboard) {
+  // 🚫 If NOT logged in and trying to access main site → redirect to login
+  if (!user && isMainPage) {
     window.location.replace("login.html");
     return;
   }
 
-  // 👤 If logged in AND on dashboard → show profile info
-  if (user && isDashboard) {
+  // 🔐 If logged in and trying to access login/signup → redirect to main site
+  if (user && isAuthPage) {
+    window.location.replace("index.html");
+    return;
+  }
+
+  // 👤 If logged in and on main page → show profile
+  if (user && isMainPage) {
 
     const usernameEl = document.getElementById("username");
     const emailEl = document.getElementById("emailDisplay");
@@ -94,11 +94,9 @@ onAuthStateChanged(auth, (user) => {
     if (profilePicEl) {
       profilePicEl.src = user.photoURL || "https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg";
     }
-
   }
 
 });
-
 
 // ===================================================
 // 📝 SIGN UP
