@@ -95,3 +95,23 @@ html, body {
   text-decoration: underline;
   opacity: 0.85;
 }
+/* Make form take full width of card */
+.auth-card form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
+.forgot-link {
+  cursor: pointer;
+  color: #e50914; /* match site accent */
+  font-size: 13px;
+  text-align: left;
+  margin: 0;
+}
+
+.forgot-link:hover {
+  text-decoration: underline;
+  opacity: 0.85;
+}
