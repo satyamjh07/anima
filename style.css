@@ -1,22 +1,24 @@
-/* Reset for full height auth pages */
+/* Full height reset */
 html, body {
   height: 100%;
   margin: 0;
   padding: 0;
   background: #141414;
-  overflow-x: hidden; /* prevent horizontal scroll */
+  font-family: Arial, sans-serif;
+  overflow-x: hidden;
 }
 
-/* AUTHENTICATION PAGES */
+/* Auth container - center screen */
 .auth-container {
   min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
   background: #141414;
-  padding: 0; /* removed extra padding */
+  padding: 20px;
 }
 
+/* Auth card */
 .auth-card {
   background: #181818;
   padding: 40px 30px;
@@ -30,14 +32,21 @@ html, body {
   text-align: center;
 }
 
-/* Headings */
+/* Heading */
 .auth-card h2 {
   color: white;
   font-size: 28px;
   margin-bottom: 10px;
 }
 
-/* Inputs */
+/* Form */
+.auth-card form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  width: 100%;
+}
+
 .auth-card input {
   padding: 12px 15px;
   border-radius: 6px;
@@ -62,12 +71,12 @@ html, body {
   transition: all 0.3s ease;
 }
 
-.auth-card #authBtn {
+#authBtn {
   background: #e50914;
   color: white;
 }
 
-.auth-card #authBtn:hover {
+#authBtn:hover {
   background: #b20710;
 }
 
@@ -83,11 +92,11 @@ html, body {
 /* Footer / links */
 .auth-footer {
   font-size: 13px;
-  color: #aaa; /* muted text for better contrast */
+  color: #aaa; /* muted text */
 }
 
 .auth-footer a {
-  color: #e50914; /* site accent */
+  color: #e50914;
   text-decoration: none;
 }
 
@@ -95,17 +104,11 @@ html, body {
   text-decoration: underline;
   opacity: 0.85;
 }
-/* Make form take full width of card */
-.auth-card form {
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-  width: 100%;
-}
 
+/* Forgot password link */
 .forgot-link {
   cursor: pointer;
-  color: #e50914; /* match site accent */
+  color: #e50914;
   font-size: 13px;
   text-align: left;
   margin: 0;
@@ -114,4 +117,36 @@ html, body {
 .forgot-link:hover {
   text-decoration: underline;
   opacity: 0.85;
+}
+
+/* RESPONSIVE MEDIA QUERIES */
+@media (max-width: 480px) {
+  .auth-card {
+    padding: 30px 20px;
+    max-width: 90%;
+  }
+
+  .auth-card h2 {
+    font-size: 24px;
+  }
+
+  .auth-card input, .auth-card button {
+    font-size: 13px;
+    padding: 10px 12px;
+  }
+}
+
+@media (max-width: 360px) {
+  .auth-card {
+    padding: 25px 15px;
+  }
+
+  .auth-card h2 {
+    font-size: 22px;
+  }
+
+  .auth-card input, .auth-card button {
+    font-size: 12px;
+    padding: 8px 10px;
+  }
 }
