@@ -5,20 +5,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>ADULTVERSE</title>
   <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
 
   <!-- HEADER -->
   <header class="header">
     <div class="logo">ADULTVERSE</div>
+     <div class="profile-card">
+    <img id="profilePic" width="120" />
+    <h2 id="username"></h2>
+    <p id="emailDisplay"></p>
+  </div>
     <nav class="nav">
       <a href="#">Home</a>
       <a href="#">Anime</a>
       <a href="#">Trending</a>
       <a href="#">My List</a>
+      <a id="logoutBtn">Logout</a>
     </nav>
   </header>
-
+  
+<div id="toastContainer"></div>
+  
   <div class="controls">
 
     <div class="search-wrapper">
@@ -94,6 +103,7 @@ Reika Shichijo was a student at the top of her class, until one day she suddenly
   <script src="script.js"></script>
 </body>
 </html>
+
 
 
 
