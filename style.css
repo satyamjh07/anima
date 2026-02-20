@@ -1,6 +1,6 @@
 /* AUTHENTICATION PAGES */
 .auth-container {
-  min-height: 100%;
+  min-height: 98vh;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -9,7 +9,7 @@
 }
 
 .auth-card {
-  background: #6b33d4;
+  background: #181818;
   padding: 40px 30px;
   border-radius: 12px;
   width: 100%;
@@ -74,10 +74,11 @@
 }
 
 .auth-footer a {
-  color: #e50914;
+  color: #e50914; /* changed from blue to site accent */
   text-decoration: none;
 }
 
 .auth-footer a:hover {
   text-decoration: underline;
+  opacity: 0.85; /* subtle hover effect */
 }
