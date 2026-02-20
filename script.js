@@ -220,7 +220,7 @@ if (forgotPassword) {
     try {
       await sendPasswordResetEmail(auth, email);
       showToast("Password reset email sent!", "success");
-      showToast("Please check spam folder for email", "success");
+      showToast("Please check spam folder for email", "error");
     } catch (error) {
       showToast(error.message, "error");
     }
