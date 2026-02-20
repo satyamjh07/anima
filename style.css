@@ -1,6 +1,6 @@
 /* AUTHENTICATION PAGES */
 .auth-container {
-  min-height: 100vh;
+  min-height: 100%;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -9,7 +9,7 @@
 }
 
 .auth-card {
-  background: #181818;
+  background: #6b33d4;
   padding: 40px 30px;
   border-radius: 12px;
   width: 100%;
