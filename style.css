@@ -1,3 +1,12 @@
+/* Reset for full height auth pages */
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background: #141414;
+  overflow-x: hidden; /* prevent horizontal scroll */
+}
+
 /* AUTHENTICATION PAGES */
 .auth-container {
   min-height: 100vh;
@@ -5,6 +14,7 @@
   justify-content: center;
   align-items: center;
   background: #141414;
+  padding: 0; /* removed extra padding */
 }
 
 .auth-card {
@@ -20,12 +30,14 @@
   text-align: center;
 }
 
+/* Headings */
 .auth-card h2 {
   color: white;
   font-size: 28px;
   margin-bottom: 10px;
 }
 
+/* Inputs */
 .auth-card input {
   padding: 12px 15px;
   border-radius: 6px;
@@ -40,6 +52,7 @@
   color: #aaa;
 }
 
+/* Buttons */
 .auth-card button {
   padding: 12px 20px;
   border: none;
@@ -67,17 +80,18 @@
   opacity: 0.85;
 }
 
+/* Footer / links */
 .auth-footer {
   font-size: 13px;
-  color: #aaa;
+  color: #aaa; /* muted text for better contrast */
 }
 
 .auth-footer a {
-  color: #e50914; /* changed from blue to site accent */
+  color: #e50914; /* site accent */
   text-decoration: none;
 }
 
 .auth-footer a:hover {
   text-decoration: underline;
-  opacity: 0.85; /* subtle hover effect */
+  opacity: 0.85;
 }
