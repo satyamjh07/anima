@@ -72,7 +72,7 @@ onAuthStateChanged(auth, (user) => {
 
   // 🚫 If NOT logged in → block dashboard access
   if (!user && isDashboard) {
-    window.location.replace("index.html");
+    window.location.replace("login.html");
     return;
   }
 
@@ -92,7 +92,7 @@ onAuthStateChanged(auth, (user) => {
     }
 
     if (profilePicEl) {
-      profilePicEl.src = user.photoURL || "default-avatar.png";
+      profilePicEl.src = user.photoURL || "https://img.freepik.com/free-vector/blue-circle-with-white-user_78370-4707.jpg";
     }
 
   }
@@ -243,7 +243,7 @@ if (logoutBtn) {
       showToast("Logged out successfully!", "success");
 
       setTimeout(() => {
-        window.location.href = "index.html";
+        window.location.href = "login.html";
       }, 1000);
 
     } catch (error) {
