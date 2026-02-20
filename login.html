@@ -5,25 +5,30 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<div class="auth-container">
-<form id="loginForm">
-   <div class="auth-card">
-  <h2>Login</h2>
-<input type="email" id="email" placeholder="Enter email">
-<input type="password" id="password" placeholder="Enter password">
-  <button type="button" id="googleLoginBtn" class="google-btn">
-    Continue with Google
-  </button>
-  <p id="forgotPassword" style="cursor:pointer; color:blue;">
-    Forgot Password?
-  </p>
-<button id="loginBtn">Login</button>
 
-<a href="signup.html">Create Account</a>
-   </div>
-  </form>
+<div class="auth-container">
+  <div class="auth-card">
+    <h2>Login</h2>
+    <form id="loginForm">
+      <input type="email" id="email" placeholder="Enter email">
+      <input type="password" id="password" placeholder="Enter password">
+
+      <button type="button" id="googleLoginBtn" class="google-btn">
+        Continue with Google
+      </button>
+
+      <p id="forgotPassword" class="forgot-link">Forgot Password?</p>
+
+      <button id="loginBtn">Login</button>
+    </form>
+
+    <p class="auth-footer">
+      Don't have an account? <a href="signup.html">Create Account</a>
+    </p>
+
+    <div id="toastContainer"></div>
+  </div>
 </div>
-  <div id="toastContainer"></div>
 
 <script type="module" src="script.js"></script>
 </body>
