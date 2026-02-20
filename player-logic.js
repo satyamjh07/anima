@@ -385,8 +385,8 @@ const animeEpisodes = {
     "https://hentaibar.com/embed/913",
   ],
   anime26: [
-    "https://hentaibar.com/embed/761",
-    "https://hentaibar.com/embed/762",
+    "https://archive.org/embed/nariyuki-papakatsu-girls-animation-1",
+    "https://archive.org/embed/nariyuki-papakatsu-girls-animation-2",
   ],
   anime27: [
     "https://archive.org/embed/helter-skelter-hakudaku-no-mura-1",
@@ -589,5 +589,6 @@ closeModal.addEventListener("click", () => {
   videoPlayer.src = "";
   document.body.style.overflow = "auto"; // enable scroll
 });
+
 
 
