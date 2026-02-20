@@ -95,14 +95,34 @@ html, body {
   color: #aaa; /* muted text */
 }
 
-.auth-footer a {
-  color: #e50914;
+/* All links inside auth-footer */
+.auth-footer a,
+.auth-footer a:visited,
+.auth-footer a:active,
+.auth-footer a:hover {
+  color: #e50914; /* permanent site accent */
   text-decoration: none;
+  transition: all 0.3s ease;
 }
 
 .auth-footer a:hover {
   text-decoration: underline;
   opacity: 0.85;
+}
+/* Animation: fade-up for auth-card */
+@keyframes fadeUp {
+  0% {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.auth-card {
+  animation: fadeUp 0.6s ease forwards;
 }
 
 /* Forgot password link */
