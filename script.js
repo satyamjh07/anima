@@ -46,7 +46,7 @@ function showToast(message, type = "success") {
 
   setTimeout(() => {
     toast.remove();
-  }, 3000);
+  }, 8000);
 }
 
 
@@ -220,6 +220,7 @@ if (forgotPassword) {
     try {
       await sendPasswordResetEmail(auth, email);
       showToast("Password reset email sent!", "success");
+      showToast("Please check spam folder for email", "success");
     } catch (error) {
       showToast(error.message, "error");
     }
