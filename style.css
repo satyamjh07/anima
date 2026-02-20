@@ -1,11 +1,10 @@
 /* AUTHENTICATION PAGES */
 .auth-container {
-  min-height: 98vh;
+  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
   background: #141414;
-  padding: 20px;
 }
 
 .auth-card {
