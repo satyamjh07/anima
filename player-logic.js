@@ -272,8 +272,90 @@ const animeData = [
     description: "Takashi, a young man with an overactive sex drive, finds some info about a ritual to summon a succubus by going no fap for 72 days... and it turns out it works! But why does the succubus look like his step-mom?!",
     tags: ["", "", ""]
   },
-
-
+      {
+    id: "anime40",
+    title: "mama katsu",
+    image: "https://uncensoredhentai.xxx/wp-content/uploads/2025/06/Mama-Katsu-Midareru-Mama-tachi-no-Himitsu-Episode-4.jpg",
+    description: "A younger brother, who had his beloved sister stolen from him, is filled with hatred for her husband and wants to take her back...",
+    tags: ["MILF", "PUBLIC SEX", "BIG BOOBS"]
+  },
+          {
+    id: "anime41",
+    title: "mayohiga no onee san the animation",
+    image: "https://cdn-eu.anidb.net/images/main/282220.jpg",
+    description: "“Mayohiga”: An illusionary house that bestows wealth upon lost travelers, Unlike houses in the mysterious and slightly eerie stories of legend, in this modern retelling, Mayohiga is a cafe staffed by beautiful Onee-san.",
+    tags: ["HAREM", "INCEST", "UNCENSORED"]
+  },
+          {
+    id: "anime42",
+    title: "MESU SAGA",
+    image: "https://m.media-amazon.com/images/I/61qVdjas1LL._AC_UF1000,1000_QL80_.jpg",
+    description: "The story about a woman who was recently got married. As time went on, her husband gradually lost interest in his wife, and so wanted diversity in sex by other means…",
+    tags: ["NTR", "BIG BOOBS", "MILF"]
+  },
+          {
+    id: "anime43",
+    title: "MY MOTHER",
+    image: "https://allporncomic.com/wp-content/uploads/WP-manga/data/manga_62ea3b48b6ad7/2ac2c8a0a0a7a281f83194a67f675b51/003.jpg",
+    description: "Thailand’s hentai animation based on famous doujin of the same name. The mc, Nont, have a very sexy mom, but they haven’t met for 5 years because of her work in Macao. One day she decided to return to Thailand. Nont and his mom went a date on a Pattaya’s beach, but when the night falls, his mom barged in his hotel room. She found out that he have been having sex with his older sister during her time in Macao. Instead of being scolded, they got drowned in the atmosphere and finally did it.",
+    tags: ["INCEST", "MILF", "UNCENSORED"]
+  },
+          {
+    id: "anime44",
+    title: "",
+    image: "",
+    description: "",
+    tags: ["", "", ""]
+  },
+          {
+    id: "anime45",
+    title: "",
+    image: "",
+    description: "",
+    tags: ["", "", ""]
+  },
+          {
+    id: "anime46",
+    title: "",
+    image: "",
+    description: "",
+    tags: ["", "", ""]
+  },
+          {
+    id: "anime47",
+    title: "",
+    image: "",
+    description: "",
+    tags: ["", "", ""]
+  },
+          {
+    id: "anime48",
+    title: "",
+    image: "",
+    description: "",
+    tags: ["", "", ""]
+  },
+          {
+    id: "anime49",
+    title: "",
+    image: "",
+    description: "",
+    tags: ["", "", ""]
+  },
+          {
+    id: "anime50",
+    title: "",
+    image: "",
+    description: "",
+    tags: ["", "", ""]
+  },
+          {
+    id: "anime51",
+    title: "",
+    image: "",
+    description: "",
+    tags: ["", "", ""]
+  },
 ];
 
 const animeEpisodes = {
@@ -333,10 +415,10 @@ const animeEpisodes = {
     "https://archive.org/embed/taboo-charming-mother-6",
   ], // Add episode URLs here
   anime14: [
-    "https://hentaibar.com/embed/679",
-    "https://hentaibar.com/embed/680",
-    "https://hentaibar.com/embed/681",
-    "https://hentaibar.com/embed/682",
+    "https://archive.org/embed/tsugou-no-yoi-sexfriend-1",
+    "https://archive.org/embed/tsugou-no-yoi-sexfriend-2",
+    "https://archive.org/embed/tsugou-no-yoi-sexfriend-3",
+    "https://archive.org/embed/tsugou-no-yoi-sexfriend-4",
   ], // Add episode URLs here
   anime15: [
     "https://hentaibar.com/embed/1010",
@@ -363,8 +445,8 @@ const animeEpisodes = {
   anime20: ["https://archive.org/embed/love-es-m-the-animation-1"],
 
   anime21: [
-    "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=U0dOY05KalRXUmpBaERrYzVsK0wyUGs0eElZODFJTmJSL2M0WkVHUjFtdnNmTWxtSG5wcklEcjNuSkVjb2twdjc1NzcreURiakt4MlRTMDVnUmhNeVZ2MUNocURDalVzc1Q4Mlo4WkhGOHZFMHMyS0g2Qng1S2RnVDJmQzVCUWovbzN3VU02YU5QMjRGeGdrVVFaYjFXdTV5YW96SFhRbk1UK2JwcEN5cDJnVjdYL2pmWENYUjNzQnp0cTdVcWVVTFZQVno4RS9zOUpzeTRrZ092ZEZhTk1wb09sWkFWT1Q3bGRxSys0M0N0YXN1a3dUVDFkbDc4eExFY1BnRExaSWcrUUFRTVFqWEJXZGpuYmNNNm1oaWc9PTp8Ojp8OmFDQW5kQnQvMUNvb25Qb3p0ckJjeUE9PQ==",
-  ],
+    "https://archive.org/embed/tsuma-netori-rei-boku-no-ayamachi-kanojo-no-sentaku-1_1080p",
+      ],
   anime22: [
     "https://archive.org/embed/furyou-ni-hamerarete-jusei-suru-kyonyuu-okaa-san-the-animation-1",
     "https://archive.org/embed/furyou-ni-hamerarete-jusei-suru-kyonyuu-okaa-san-the-animation-2",
@@ -379,10 +461,7 @@ const animeEpisodes = {
   "https://hentaibar.com/embed/1115",
   ],
   anime25: [
-    "https://hentaibar.com/embed/910",
-    "https://hentaibar.com/embed/911",
-    "https://hentaibar.com/embed/912",
-    "https://hentaibar.com/embed/913",
+    "https://archive.org/embed/jukujo-shigan-1",
   ],
   anime26: [
     "https://archive.org/embed/nariyuki-papakatsu-girls-animation-1",
@@ -395,12 +474,8 @@ const animeEpisodes = {
     "https://archive.org/embed/helter-skelter-hakudaku-no-mura-4",
   ],
   anime28: [
-    "https://hentaibar.com/embed/226",
-    "https://hentaibar.com/embed/227",
-    "https://hentaibar.com/embed/228",
-    "https://hentaibar.com/embed/229",
-    "https://hentaibar.com/embed/230",
-    "https://hentaibar.com/embed/231",
+    "https://archive.org/embed/last-waltz-hakudaku-mamire-no-natsu-gasshuku-1_202602",
+    "https://archive.org/embed/last-waltz-hakudaku-mamire-no-natsu-gasshuku-2_202602",
   ],
   anime29: [
     "https://hentaibar.com/embed/77",
@@ -417,12 +492,12 @@ const animeEpisodes = {
     "https://archive.org/embed/mistreated-bride-4",
   ],
   anime32: [
-    "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=d3JIQjA1SERSMGhJZU9wQm9xcHhRQmtIVDlPUzgrcThBSGE2bmtPMUZ4a21UOGZNb0YwbHBUSGlaOXVDL0JEUnFTTXZvQjRmWis2SGdwWG5iRGR0QkNCYWg3a01ZMUVhMjJ0bEh0Tk9CUnVGUlNvV3dIdVdaOXR1d3ZyNjl2R2dEU0ZUOTRkTEtFcnIzWitvNThlSWtSZ0FZeXBUZ3k5NFFlcXBlL0ZpbUFTSXg1WjEybmhZcnhoTWJzTmhQdmFBVmRIMGt1THdOOEJEKytHQVMvcGpQM3FTWlpnYnFmaHFhTnJTRmRHWjcyY1ZSQ2pFV3pVaFZBSlNZRG4zVUdGaGhXSlFwdlJlaHFablZmYVlWSUsreE1SNkZYejlJNG1kcXZ2TVMvenZuMEZKL0tQV1ZkTU1QSTVONVM5b0REOEk6fDo6fDowU1ZhZTlTQm1wc0Z4MzJrRGFORWdnPT0=",
-    "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=Q2FUQnR3QytjeUxjV0JEcFJpQ0hTbG8walRRT1p4TVJVZjZ4RERWa0xZTENSL3pwZjIzUTRteWVyaW9WTld1OXRZekN0b2hUMFd0NzRJck5TcTl6a3ZoaHU0Nys4NmNBcVdXVzhuZ3ZtWW9XMUsrTkQza1dydVN4T2VPT2dGSnBkbk9zdEwrNlp3bGtGUk5XOGdwZEFZNldmV1RzV1NwSitsNjRRQU9xWWZPb3QxZWM5OVJUMzlCTW5pVkhKWlBSRHpRTmhWMG1WZ2d4T1AxUjVQZ3dOVi9HN1U2NDJWNXFpbGlKa0puWWh3TGpWeFlpS3lwbUhnVnZRS0MrTkI3ZHNMNVZlT0tFbzlqblVJUGRPNzNFSnQ0QVQ0MGJOTFN3ZHpmVkprUU9mcnZlRkJtNHVISkFvODhTYXJHOCsxeDY6fDo6fDprVWtkbFlpTHFGRm9UY0RyVnFtQTNRPT0=",
-    ],
-  anime33: [
-    "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=TnhaQitBbExxTk84aXJHY1d5VGtxNzdNS0tCY3VyeTlreU9hZm5OaFBLSTM3TjIzNmhlYjVmamFLaUYwVlBmaHBUZ094S1ZWS01DTFNYYWVlN1JSYkxZMjhweTNWeDh3QmRMNGJvUGNaUG1Jbmg4U2JSbVV5SGpSVElFU3FGbnNrRTFPSW1VaVVKZWtyL1V0cWU0OGNlQ0w3MGhrSlJ6RVJkZTdtREZ1UGwzQXJwTVRIc2F5NWRhbitYNTc3cmxOeE9xU000OTFiRUxSVWZFTTlxd2lTakVaVVFiSWtoM0NCakp5MG8wTmQyamRqM1Z5ZkRoMVUzaURGeHJicnpDZzp8Ojp8OnhvU3F3Y0JRczdUa05LOU00b0JVS2c9PQ==",
-    "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=Vy85SXNENXFJQWN0c3BnTG5vbGRRSzNwZjE3YVoyMUF1NlhvZFBxMXF0NG4wdjBkay9FMEV5STBlcVhpTnlPaGxSVTN5NW51RkJtYnJnU2tsQ2pOUVhTQ2dDL2VuV3ZvV0RRMCtGMWNtKzU0RWllYTJmaUdHVXc5b29TSVFxcUVHa29jalQwYVNTOHFpQktpbjIxL1Y2cytmenNvYXFsck9Hb1ppeE45MHYzYnJsUTE3SUgwRkJENGF1a0ZOSGVPRlh4NkpzVWo4d09VK3NvdCsvSGdvREVxc25PV3E5OGFXdTNmajIyT1ErVm9ZSUlnQTdScGoxRUxUQXd1QWE3QTp8Ojp8OmNVWHVNcEc1WWR5YmhMTExtTkN3QXc9PQ==",
+    "https://archive.org/embed/okusama-wa-moto-yariman-1_202602",
+      "https://archive.org/embed/okusama-wa-moto-yariman-2_202602",
+     ],
+      anime33: [
+    "https://archive.org/embed/maid-in-heaven-supers-1-dub",
+      "https://archive.org/embed/maid-in-heaven-supers-2-dub",
     ],
       anime34: [
     "https://hentaihaven.xxx/wp-content/plugins/player-logic/player.php?data=N1pUMmUwRHBhRjI4dmkrT0gzL25saWVhbm5xOHNDakU5dWR4d2w0d01yaTRmWmhkeVJtaEx6ZTZTd2dxODFxelhmdHMvRWpoaXVYVE9ST1d4djFrOHVzWU5mUHdxQVpYS1g0S1B2TDJaUEVkNjJoTVp3NVRXZnpNYWhtaXRGNHdLTVpkc2JHRFM4S1c4YmxNalNRL0FnQ2Q1UjJxa0ZZQ3NjZEdKdThBSXRUbXhZY3NubTh0OEJwVWFVdFo0dHZxZHlkVUthRDBCSk9zeERydkFiMzB4UW1ENFk0bk00OHJwMDdMcHNrMmRNUT06fDo6fDpaY0VHOGp2SVIvRDk1MDBsUmQxRkJBPT0=",
@@ -589,6 +664,7 @@ closeModal.addEventListener("click", () => {
   videoPlayer.src = "";
   document.body.style.overflow = "auto"; // enable scroll
 });
+
 
 
 
