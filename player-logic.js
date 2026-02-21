@@ -25,7 +25,7 @@ const animeData = [
       title: "Ana no Oku no Ii Tokoro",
       image: "https://ahegao.online/wp-content/uploads/2017/01/ezgif.com-ddcf3c1bb0.gif",
       description: "Dive into the world of hardcore, explicit anime with our latest video inspired by none other than legendary artist Nagare Ippon's popular adult manga! Witness an unbelievable tale that combines intense sexual action and gripping plotlines for a truly unique experience. Our main character is a kinky badass who will make you drool over their every move, as they navigate through a world of lust, passion, and debauchery like never before! This steamy video adaptation features our heroine getting down and dirty with an impressive roster of horny anime dudes. From intense anal action to sloppy blowjobs that'll make you squirm in your seat, this isn't just any ordinary porn parody - it's a wild, unbridled ride through the smutty world of Nagare Ippon!Get ready for an outrageous orgasmic rollercoaster filled with taboo desires and forbidden fantasies. Watch our protagonist go from one wild sexual escapade to another, pushing boundaries and breaking taboos along the way. This isn't your average smut fest - this is a twisted tale of lust, passion, and kink that you won't soon forget! And let me tell ya, it doesn't stop there; we have some truly jaw-dropping special effects thrown into the mix for an authentic anime feel. From holographic cock-sucking machines to massive dick cannons blasting cum all over our heroine, prepare yourself because this video will blow your fucking mind! Are you ready? Are you willing to dive deep and immerse yourself in a sea of sex, scandal, and sin with no turning back? Well then buckle up, my friend, because this is one wild ride that'll leave you begging for more. So get comfy, grab your favorite toy or partner - maybe even both! - and prepare to have the hottest, kinkiest, most unforgettable night of pleasure imaginable as we bring Nagare Ippons adult manga world alive like",
-      tags: ["", "", '", "", ""]
+      tags: ["NTR", "INCEST", "SCHOOL GIRL", "BONDAGE", "MILF"]
     },
     {
       id: "anime5",
@@ -60,7 +60,7 @@ const animeData = [
       title: "Yumemiru otome",
       image: "https://xhentai.tv/contents/videos_screenshots/53000/53860/preview.jpg",
       description: "Mizuki Miyama is a picture-perfect student and school idol at Seihou Girls Academy. As student council president, she makes sure everyone in the student body is kept safe, especially her naive sister, Manaka. Mizuki is shocked though when she learns her sister’s after-school activities involve sextra credit with her teacher and his friends! She’ll do anything to protect her sister’s secret, even if it includes sleeping with the campus sleazebag gym teacher!",
-      tags: ["", "", '", "", ""]
+      tags: ["SCHOOL GIRL", "NTR", "UGLY BASTARD", "TEACHER", "ANAL", "GANGBANG"]
     },
     {
       id: "anime10",
@@ -102,7 +102,7 @@ const animeData = [
       title: "Tamashii Insert",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1C-CmLVaV21ze3uQ0zRe_r5p9TJthsMDMVf91h1OmVhtL3h3bcOhm6Xk&s=10",
       description: "Naoto is an ordinary guy who, after his mother's death and his father's remarriage, has two beautiful women enter his life–Sachiko, his stepmother, and Yui, his stepsister. However, as the days go by, Naoto begins to worry about Yui's emotional distance from him.One day, he glances at his phone to find a miraculous app that promises to aid its user in understanding the person of their choice. Attempting to better understand Yui, he tries the app on her at once and surprisingly possesses her body! Thoroughly bewildered, Naoto returns to Yuis room only to see her reflection in a full-length mirror. He becomes unable to suppress his urges, and feelings of lust for his sisters body erupt forth. In his uncontrollable sexual desire, Naoto plays with Yuis receptive breasts and erect nipples then delights in the pleasures of an inexperienced woman.",
-      tags: ["", "", '", "", ""]
+      tags: ["INCEST", "MIND CONTROL", "VIRGIN", "BIG BOOBS"]
     },
     {
       id: "anime16",
@@ -589,6 +589,7 @@ closeModal.addEventListener("click", () => {
   videoPlayer.src = "";
   document.body.style.overflow = "auto"; // enable scroll
 });
+
 
 
 
