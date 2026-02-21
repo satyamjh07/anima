@@ -4,161 +4,161 @@ const animeData = [
       title: "midareuchi",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIzvkrunjO49SXICwD1VYVCjhP9jf47QxIdw&s",
       description: "Kaori, the ace of the tennis club, just went to see a junior who hasn't shown up to the tennis club lately... Although she was worried about her boyfriend, Masaya, Kaori was led to the room of her junior, Ami, and what she saw was...Ami holding a man's tool in her mouth.",
-      tags: []
+      tags: ["NTR", "SCHOOL GIRL", "ANAL", "THREESOME", "VIRGIN"]
     },
     {
       id: "anime2",
       title: "Drop Out",
       image: "https://www.onlyhentaistuff.com/contents/videos_screenshots/4000/4016/preview.jpg",
       description: "Based on the erotic manga by Fan no Hitori.Reika Shichijo was a student at the top of her class, until one day she suddenly became a dropout. Now she is responsible for her classmate Niimi-kun’s sexual pleasure to help him “study” better.In this world “Dropouts”, those who have failed to be admitted into university, are forcefully made to work. Especially beautiful students are obligated to pursue sexual labour AKA become sexual servants to the rest of society.Reika becomes the sex slave of one of her former classmates, Niimi-kun. She is now tasked with relieving his sexual tension, so he can study better. During their time in school Niimi-kun will have to adapt to his senpai becoming his new “study” partner, find out why and how she became a dropout and deal with the jealousy of his peers, especially Reika’s ex-boyfriend, Shiroshima.",
-      tags: []
+      tags: ["BDSM", "MIND BREAK", "NTR", "SCHOOL GIRL", "VIRGIN", "POV", "PUBLIC SEX"]
     },
     {
       id: "anime3",
       title: "Insatiable",
       image: "https://cdn.myanimelist.net/images/anime/12/10492.jpg",
       description: "Before she got married, she was a playgirl who made love with numerous men. But she thought such a life was meaningless, and married an honest man. While she is spending a peaceful life, she happens to meet an ex-lover.",
-      tags: []
+      tags: ["NTR", "MILF", "BIG BOOBS", "GANGBANG", "PUBLIC SEX"]
     },
     {
       id: "anime4",
-      title: "AnanoOkunoIiTokoro",
+      title: "Ana no Oku no Ii Tokoro",
       image: "https://ahegao.online/wp-content/uploads/2017/01/ezgif.com-ddcf3c1bb0.gif",
       description: "Dive into the world of hardcore, explicit anime with our latest video inspired by none other than legendary artist Nagare Ippon's popular adult manga! Witness an unbelievable tale that combines intense sexual action and gripping plotlines for a truly unique experience. Our main character is a kinky badass who will make you drool over their every move, as they navigate through a world of lust, passion, and debauchery like never before! This steamy video adaptation features our heroine getting down and dirty with an impressive roster of horny anime dudes. From intense anal action to sloppy blowjobs that'll make you squirm in your seat, this isn't just any ordinary porn parody - it's a wild, unbridled ride through the smutty world of Nagare Ippon!Get ready for an outrageous orgasmic rollercoaster filled with taboo desires and forbidden fantasies. Watch our protagonist go from one wild sexual escapade to another, pushing boundaries and breaking taboos along the way. This isn't your average smut fest - this is a twisted tale of lust, passion, and kink that you won't soon forget! And let me tell ya, it doesn't stop there; we have some truly jaw-dropping special effects thrown into the mix for an authentic anime feel. From holographic cock-sucking machines to massive dick cannons blasting cum all over our heroine, prepare yourself because this video will blow your fucking mind! Are you ready? Are you willing to dive deep and immerse yourself in a sea of sex, scandal, and sin with no turning back? Well then buckle up, my friend, because this is one wild ride that'll leave you begging for more. So get comfy, grab your favorite toy or partner - maybe even both! - and prepare to have the hottest, kinkiest, most unforgettable night of pleasure imaginable as we bring Nagare Ippons adult manga world alive like",
-      tags: []
+      tags: ["", "", '", "", ""]
     },
     {
       id: "anime5",
       title: "natsu zuma",
       image: "https://uncensoredhentai.xxx/wp-content/uploads/2025/11/Natsu-Zuma-Episode-1.jpg",
       description: "A summer trip to the beach that she couldn't go to with her husband. Yumiko was excited and looking forward to this day. But when her husband can't come, she heads to the beach alone with her young son. Just as she's feeling down, two young men approach her. That night, Yumiko is invited to the room of the men who hit on her that day. She puts her son to bed and heads to the room where the two young men are waiting, with secret hope in her heart. A forbidden summer begins, as she is consumed by carnal desires despite being tormented by guilt...",
-      tags: []
+      tags: ["ANAL", "MILF", "DEEPTHROAT", "HORNY SLUT", "NTR"]
     },
     {
       id: "anime6",
       title: "seifuku wa kita mama de",
       image: "https://uncensoredhentai.xxx/wp-content/uploads/2026/02/Seifuku-wa-Kita-mama-de-Episode-1.jpg",
       description: "Yui Morisaki is the ace of the karate club and an ordinary girl with a slightly strong sense of justice. But she harbors a big secret. The holy light that dispels darkness, Pony Ceres, the Holy Light Flash Princess! I am here at the scene of evil! In a city targeted by the evil organization Zaiderg, Yui has been chosen to be Pony Ceres, a heroine of justice who fights alone. Today, she will fight evil with her righteous heart burning again! However, when an entity claiming to be a Zaiderg executive and a powerful monster appear, Pony Ceres is in grave danger! Bound by spider webs, Pony Ceres has her virginity taken away in front of someone she cares about, and she is helpless! What on earth is going to happen, Pony Ceres!? Yui Morisaki faces off against the evil organization Zaiderg. Her body emits a dazzling light, and she is enveloped in a sacred garment.",
-      tags: []
+      tags: ["BONDAGE", "MAGICAL GIRL", "SCHOOL GIRLS", "RAPE"]
     },
     {
       id: "anime7",
       title: "soredemo tsuma o aishiteru",
       image: "https://uncensoredhentai.xxx/wp-content/uploads/2022/08/soredemo-tsuma-o-aishiteru-2-ep-2.png",
       description: "Leaving her husband, Yuutou, for her job, teacher Marika is forced to have sex with her student, Yuuki. Her composure still all over the place, the next day she is called out to by the superintendent of the building, Torao. Using a picture of them kissing as blackmail, Torao has fun with Marika’s body for an entire day. Seeing that Marika took off work without notifying anyone, Yuuki worries about her and goes to her place, only to find the two of them fucking. Marika’s husband, Yuutou, starting to get suspicious of his wife, is invited by his peer only to find…",
-      tags: []
+      tags: ["TEACHER", "ANAL", "BIG BOOBS", "NTR", "UGLY BASTARD"]
     },
     {
       id: "anime8",
       title: "uchi no otouto maji de dekain dakedo mi ni konai",
       image: "https://muchohentai.tv/wp-content/uploads/2022/08/cover_uchi-no-otouto-maji-de-dekain-dakedo-mi-ni-konai-2.png",
       description: "Even though he's young and quite small, he is HUGE where it counts. All the older girls in his life seem to be enchanted with the idea of this little shota with a giant package",
-      tags: []
+      tags: ["SCHOOL GIRL", "THREESOME", "HAREM", "SWIMSUIT", "BIG BOOBS"]
     },
     {
       id: "anime9",
       title: "Yumemiru otome",
       image: "https://xhentai.tv/contents/videos_screenshots/53000/53860/preview.jpg",
       description: "Mizuki Miyama is a picture-perfect student and school idol at Seihou Girls Academy. As student council president, she makes sure everyone in the student body is kept safe, especially her naive sister, Manaka. Mizuki is shocked though when she learns her sister’s after-school activities involve sextra credit with her teacher and his friends! She’ll do anything to protect her sister’s secret, even if it includes sleeping with the campus sleazebag gym teacher!",
-      tags: []
+      tags: ["", "", '", "", ""]
     },
     {
       id: "anime10",
       title: "Kangoku Senkan",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs-59XzP99jRsnJ-Qsw4dqCCaepS892XqLIPFS_SPO1TCk_W-P8wi_URE&s=10",
       description: "Director Murakami Teruaki returns to boot up PIXY's new *PIXY SPECIAL* label. This is a series based on Lilith's game of the same name.It is an age where the human race has begun spreading through space. Mankind's territory has expanded through the entire solar system. Before long, *humanity of space* will increase to the point where Earth will no longer be their native home. Until then, the Space Federation Government, which recognized the sovereignty of every colonized planet, was established to revise doctrines favorable to Earth.The protagonist, Donny Bogan, is a lieutenant in the Space Federation Force and is captain on the battleship Jacinthe, used to transport VIPs. However, the protagonist and crew of Jacinthe are secretly in a special military force affiliated with the political group *Neo Terrors,* the heart of *neanderthals* born on Earth. They have had the special task of assassinating and kidnapping key figures of the political clique *New Soral,* the heart of *humanity of space* and whose interests antagonize their own. Their next targets are the up-and-coming talented women of *New Soral*: Commander Lieri Bishop and her aide, Major Naomi Evans. For the sake of Earth, the women intend to ascertain evidence of illegal activities of the main statesman in the *Neo Terrors* and indict him if necessary before a Federal Government session on Earth. Therefore, the men made plans to brainwash the two beautiful commissioned officers through means of their most skilled duty and change them into personalities convenient for them. Tomorrow we will approach Titan, pick up both of them, and head for Earth. We'll use the equipment on this warship and brainwash them while we are in transit.The protagonist was in no small way linked to the women. With deeply etched memories of humiliation, the protagonist surgically changed his face and achieved his current social status to one day exact revenge. Now, how should I change you... Lieri Bishop, Naomi Evans? I have always been thinking of a special plan for the two of you. Jacinthe sets course for Titan and begins wading silently through the vast cosmos.",
-      tags: []
+      tags: ["GANGBANG", "TEACHER", "SCHOOL GIRL", "ANAL", "TOYS"]
     },
     {
       id: "anime11",
       title: "Fela Pure",
       image: "https://www.onlyhentaistuff.com/contents/videos_screenshots/0/308/preview.jpg",
       description: "Everyone views the student council president as the perfect girl, but what they don't know is that her favorite thing is fellatio with her younger brother. With their parents always traveling they fulfill this desire quite often and in various ways.",
-      tags: []
+      tags: ["INCEST", "SCHOOL GIRL", "BIG BOOBS", "BLOWJOB", "COMEDY"]
     },
     {
       id: "anime12",
       title: "Megani No Megami",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2Z4GWxVIDCKoZxnJ7k2TAKqs3x3QdNumkmqwXas2v31WjmzHYTFcpNx2dM0aFGhirfdk&usqp=CAU",
       description: "Hot for eyeglasses Hiroki is dating one of the girls in his school, Kurumi Sawahitomi. Faithful, cute, and absolutely perfect… But, Hiroki is a bit dissatisfied with their sex. This is because she won’t wear her glasses as they have sex. As they're studying together, they decide to fuck.Convinced by Hiroki, she puts on her glasses. Seeing her with glasses on, he ends up fucking her twice in a row. After a rough fucking, he gets busted by his sister and gets punished by her…!?",
-      tags: []
+      tags: ["SCHOOL GIRL", "INCEST", "FANTASY", "NTR", "BIG BOOBS"]
     },
     {
       id: "anime13",
       title: "Taboo Charming Mother",
       image: "https://hentaihaven.xxx/www/2019/05/Taboo-Charming-Mother-hentai-haven.jpg",
       description: "Kazuhiko has a big crush on his stepmother, or rather, he wants to have sex with her. Since he can't just ask it from her directly nor force it on her, he comes up with quite a devious plan, step by step leading him closer to his goal. But in the end, his stepmother won't be enough for him...",
-      tags: []
+      tags: ["ANAL", "MILF", "UNCENSORED", "INCEST", "NTR", "HAREM", "BONDAGE"]
     },
     {
       id: "anime14",
       title: "Tsugou no Yoi Sexfriend",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUaJyIGODSlscuvkkQUfcbHoKlfVdHk8PQ3RGbOKcgTxNAzUhtbstEwbQ&s=10",
       description: "",
-      tags: []
+      tags: ["SCHOOL GIRL", "HAREM", "FANTASY", "POV", "BIG BOOBS"]
     },
     {
       id: "anime15",
       title: "Tamashii Insert",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1C-CmLVaV21ze3uQ0zRe_r5p9TJthsMDMVf91h1OmVhtL3h3bcOhm6Xk&s=10",
       description: "Naoto is an ordinary guy who, after his mother's death and his father's remarriage, has two beautiful women enter his life–Sachiko, his stepmother, and Yui, his stepsister. However, as the days go by, Naoto begins to worry about Yui's emotional distance from him.One day, he glances at his phone to find a miraculous app that promises to aid its user in understanding the person of their choice. Attempting to better understand Yui, he tries the app on her at once and surprisingly possesses her body! Thoroughly bewildered, Naoto returns to Yuis room only to see her reflection in a full-length mirror. He becomes unable to suppress his urges, and feelings of lust for his sisters body erupt forth. In his uncontrollable sexual desire, Naoto plays with Yuis receptive breasts and erect nipples then delights in the pleasures of an inexperienced woman.",
-      tags: []
+      tags: ["", "", '", "", ""]
     },
     {
       id: "anime16",
       title: "Makai Kishi Ingrid",
       image: "https://uncensoredhentai.xxx/wp-content/uploads/2022/08/cover_makai-kishi-ingrid-1.jpg",
       description: "Ingrid and Murasaki are demon hunters, who are captured by the demons they fight against. The demons, eager for revenge, turn them into sex slaves.",
-      tags: []
+      tags: ["INCEST", "BIG BOOBS", "VIRGIN", "MIND CONTROL"]
     },
     {
       id: "anime17",
       title: "Bondage Game",
       image: "https://www.xanimeporn.com/wp-content/uploads/2015/09/thumb-bondage-game2.jpg",
       description: "Those who are at the top of a zaibatsu, a large Japanese business conglomerate, tend to have eccentric tastes. For one particular executive, his hobby of choice is spending his fortune on women, buying sex slaves naturally. At his luxurious mansion in the most remote of locations, he spends his time training his pets far from prying eyes. An acquaintance of his shares the same pastime, and the two one day decide to compete to see who can train the best sexual servants. At the same time, an amnesiac young lady shows up at the doorstep, not realizing what awaits as the game begins.",
-      tags: []
+      tags: ["GANGBANG", "MAID", "ANAL", "BIG BOOBS", "UNCENSORED"]
     },
     {
       id: "anime18",
       title: "hatsukoi jikan",
       image: "https://himg.nl/images/hh/hatsukoi-time-3-eng/poster.jpg",
       description: "I don't care if you're my maid... I'm going to marry who I love the most!",
-      tags: []
+      tags: ["SCHOOL GIRL", "MAID", "BIG BOOBS", "BOOB JOB"]
     },
     {
       id: "anime19",
       title: "Do you Know Milfing Man?",
       image: "https://media.hentaifreak.org/do-you-know-the-milfing-man-episode-1.jpg",
       description: "When his mother dies and his father remarries, Kaito takes a shine to his sexy new stepmother, Sayoko. Driven mad with lust, Kaito is soon spying on her and sneaking into her bedroom for some covert late-night action. Though racked with guilt, Sayoko eventually finds herself a willing participant. And when Kaito tells her that his father is cheating on her with a younger woman, theirs becomes a full-fledged affair. The sex, sin and betrayal will turn Kaito's whole household upside down!",
-      tags: []
+      tags: ["NTR", "INCEST", "MILF", "UNCENSORED", "BIG BOOBS"]
     },
     {
       id: "anime20",
       title: "Love Es M The Animation",
       image: "https://cdn2.hentaigifz.com/89826/from-the-hentai-love-es-m-the-animation.gif",
       description: "A kind and reliable older sister, Mizushiro Ayaka. A younger childhood friend and now my girlfriend, Tsurutani Ayaka. While I'm happily getting along with the two, I wasn't satisfied. That is because I have a hobby that I must keep hidden.I want to do S&M.I secretly buy tools for my personal use - stare at it, touch it. And then one day as I was expelling myself of my urges, I noticed that someone had entered my room and saw the secret.Let's try setting a trap...I turn to see who discovered my secret. And so, our abnormal relationship began.",
-      tags: []
+      tags: ["HAREM", "ANAL", "BDSM", "BONDAGE", "PUBLIC SEX", "SCHOOL GIRL", ]
     },
     {
       id: "anime21",
       title: "Tasuma Netori Zero: My Mistake Her Choice",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzENxoOlVm7E4sqmF2dE7mjYxSL7tcH-jjkGx2bCiL23Bt3mpm7Tu1-QQ&s=10",
       description: "Takafumi is preparing breakfast. His wife Makoto, who was eating, checks the time and hurries off to work. She seems to be busy helping her senior teacher, Anno, recently... he wonders what is going on there...",
-      tags: ["NTR", "UGLY BASTARD",]
+      tags: ["NTR", "UGLY BASTARD", "TEACHER", "BIG BOOBS"]
     },
     {
       id: "anime22",
       title: "Furyou ni Hamerarete Jusei Suru Kyonyuu Okaa-san",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFIRoN3q-ROgOQ0NwDyz_j41qJ_i4H07Dtmtl2HaHckx9olwb-FdRPIAo&s=10",
       description: "Kyouko has incestuous feelings toward her son. The story slowly progresses into the son realizing his own feelings toward his mom. Later on, a friend of her son's, Shin, blackmails her into doing whatever he wants. Slowly, she starts enjoying herself more and more. Will she break or fall for her son?",
-      tags: [],
+      tags: ["MILF", "INCEST", "PUBLIC SEX", "BIG BOOBS", "BONDAGE"],
     },
   {
           id: "anime23",
           title: "ane wa yanmama junyuu chuu",
           image: "https://hentaihaven.xxx/www/2020/07/Ane-wa-Yanmama-Junyuu-chuu.png",
           description: "After some difficulties with her scumbag husband, his sister ended up moving back into their family home with her youngest child. She had a habit of letting her tits out everywhere and eventually one night while both of them were drunk he made his move.Looks like her husband is gonna have to wait a little while before he can have any more kids!",
-          tags: ["", "", ""]
+          tags: ["INCEST", "NTR", "MILF", "BIG BOOBS"]
         },
         {
           id: "anime24",
@@ -589,6 +589,7 @@ closeModal.addEventListener("click", () => {
   videoPlayer.src = "";
   document.body.style.overflow = "auto"; // enable scroll
 });
+
 
 
 
