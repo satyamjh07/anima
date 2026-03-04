@@ -282,7 +282,7 @@ const animeData = [
           {
     id: "anime41",
     title: "mayohiga no onee san the animation",
-    image: "https://cdn-eu.anidb.net/images/main/282220.jpg",
+    image: "https://img.hentaihaven.xxx/images/hh/v/b/s_Mayohiga-no-Onee-san-The-Animation.jpg",
     description: "“Mayohiga”: An illusionary house that bestows wealth upon lost travelers, Unlike houses in the mysterious and slightly eerie stories of legend, in this modern retelling, Mayohiga is a cafe staffed by beautiful Onee-san.",
     tags: ["HAREM", "INCEST", "UNCENSORED"]
   },
@@ -302,31 +302,31 @@ const animeData = [
   },
           {
     id: "anime44",
-    title: "",
-    image: "",
-    description: "",
-    tags: ["", "", ""]
+    title: "kyonyuu elf oyako saimin",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkBs0-rmn0EHPLoRYBhDZsrysh-ohTJFXngA&s",
+    description: "In the kingdom of the Elves, there were strict rules regarding who was allowed to breed. However, a single human with a particular power is going to put all of that into question...",
+    tags: ["PUBLIC SEX", "RAPE", "ANAL", "THREESOME", "MIND CONTROL"]
   },
           {
     id: "anime45",
-    title: "",
-    image: "",
-    description: "",
-    tags: ["", "", ""]
+    title: "ENBI",
+    image: "https://animeidhentai.com/wp-content/uploads/2021/12/enbi-episode-2-uncensored.jpg",
+    description: "It's time for the local summer festival and Kentarou is accompanying Shizue, who has come to visit after being away for a few years. During the festival Kentarou leaves Shizue alone for a bit, and when he finds her again he sees a shocking scene... Later, Shizue goes to a local photo studio to pick up some photos from the summer festival, and decides to do a bit of modeling while there. Before long Kentarou also joins...",
+    tags: ["INCEST", "PUBLIC SEX", "ORGY", "ANAL", "GANGBANG"]
   },
           {
     id: "anime46",
-    title: "",
-    image: "",
-    description: "",
-    tags: ["", "", ""]
+    title: "Tribute to Kagachi-sama",
+    image: "https://hentaihaven.xxx/www/2021/09/tribute-to-kagachi-sama-cover.jpg",
+    description: "Based on a doujin game by Orcsoft. Takahiko goes back to his hometown together with his wife Manami. There he reunites with Ayaka - his first love who has since married his father. Despite the fact she is now his stepmother, Takahiko tries to make Ayaka his. But his father has other plans - for all of them...",
+    tags: ["ORGY", "ANAL", "GANGBANG", "HAREM", "NTR", "BONDAGE"]
   },
           {
     id: "anime47",
-    title: "",
-    image: "",
-    description: "",
-    tags: ["", "", ""]
+    title: "Genkaku Cool na Sensei ga Aheboteochi!",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKM3-M1XX2dcOXtoESmBZ0VeDnSaP9TxNeQw&s",
+    description: "A high school student has feelings for his teacher and decides to write her a love letter. The teacher rips the letter into pieces in front of the class, humiliating him. Dejected, the boy visits the student nurse to make some sense of the situation. The nurse tries to console him by giving him some pills, and proceeds to fuck his brains out – as they all do. The teacher walks in on this and shit hits the fan. Potential threesome? Or murder mystery?",
+    tags: ["MIND CONTROL", "TEACHER", "NURSE", "VIRGIN", "INCEST"]
   },
           {
     id: "anime48",
@@ -664,6 +664,7 @@ closeModal.addEventListener("click", () => {
   videoPlayer.src = "";
   document.body.style.overflow = "auto"; // enable scroll
 });
+
 
 
 
