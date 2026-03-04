@@ -174,7 +174,7 @@ if (loginForm) {
       }, 1200);
 
     } catch (error) {
-      showToast(error.message, "error");
+      alert(error.message, "error");
     }
 
     loginBtn.innerText = "Login";
